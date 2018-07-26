@@ -7,6 +7,6 @@ This was an interesting idea but having worked with high school students in the 
 
 And then things got really interesting...
 
-This repository contains an article describing the entire project and many of the documents created during the planning and development of that internship. It also contains the project created by our college intern and his crack team of high school interns. 
+This repository contains an article describing the entire project, perspectives from all of it's particpants and many of the documents created during the planning and development of that internship. It also contains the project created by our college intern and his crack team of high school interns that was deployed to the local library as an IoT learning lab. 
 
-We strongly encourage anyone thinking about creating an internship program to ask yourself, “why not this year” and take that leap to make a difference. It’s worth the effort.
+We strongly encourage anyone thinking about creating an internship program to ask yourself, “why not this year” and then take that leap to make a difference. It’s worth the effort.
