@@ -1,6 +1,4 @@
 # The-Nested-Internship
-PCS 2018 Internship Project
-
 Like many technology-consulting companies, we’ve talked about creating an internship program for years, but we never quite managed to get around to making it happen. This year was different - we asked ourselves, “why not this year,” and we made the leap to help the next generation of students transition to computer professionals. 
 
 We started the process as I imagine most companies do with an uninspiring internship plan; a college junior or senior computer science major, etc...  At our first meeting to review the plan, we hit our first bump when a co-worker asked the question - should we be targeting college students or maybe we should be considering high school students. He asked this because Ohio offers high school students an option to earn an Honors STEM diploma, which requires a work-study experience. 
