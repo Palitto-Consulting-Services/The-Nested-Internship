@@ -1,1 +1,1 @@
-
+These are the documents created by our college intern during the STEM project planning process. Almost everything in these documents were estimates or rough ideas of what we wanted the project to look like, many things did not go as planned and many more things were added in addition to what was planned. These documents set a solid foundation for the trajectory of the entire two-week project with the high school students.
