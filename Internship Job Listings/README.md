@@ -9,10 +9,10 @@
 > This is the job description that we used on all the third party sites
 #### [Final web page Technology Consulting Service College Summer Internship](https://github.com/Palitto-Consulting-Services/The-Nested-Internship/blob/master/Internship%20Job%20Listings/Final%20web%20page%20Technology%20Consulting%20Service%20College%20Summer%20Internship.pdf)
 > This is the long description of the college internship explaining the whole plan that we placed on our web site
+#### [Final Web page College Internship Application](https://github.com/Palitto-Consulting-Services/The-Nested-Internship/blob/master/Internship%20Job%20Listings/Final%20Web%20page%20College%20Internship%20Application.pdf)
+> This was the application form that we used on our web site for the college applicants. Since most college interns don't have resumes with relevant work experience, we wanted to ask a common set of questions to gauge and compare their knowledge.
 #### [Advertising the College Internship](https://github.com/Palitto-Consulting-Services/The-Nested-Internship/blob/master/Internship%20Job%20Listings/Advertising%20the%20College%20Internship.pdf)
 > Discusses how and where we choose to advertise and provides some insight into what worked and what didn't
-#### [Final Web page College Internship Application](https://github.com/Palitto-Consulting-Services/The-Nested-Internship/blob/master/Internship%20Job%20Listings/Final%20Web%20page%20College%20Internship%20Application.pdf)
-> This was the application form that we used on our web site for the college applicants. Since most interns don't have resumes with relevant work experience, we wanted to ask a common set of questions to gauge and compare their knowledge.
 
 ### For the high school internship;
 #### [Final web page High School STEM Learning Experience](https://github.com/Palitto-Consulting-Services/The-Nested-Internship/blob/master/Internship%20Job%20Listings/Final%20web%20page%20High%20School%20STEM%20Learning%20Experience.pdf)
