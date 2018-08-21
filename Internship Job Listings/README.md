@@ -1,6 +1,6 @@
 ## These are the college and high school job descriptions that we advertised for.
 
-### On the [PCS web site where we normally post employment opportunities] (https://www.palittoconsulting.com/company-profile/pcs-employment-opportunities/)
+### On the [PCS web site where we normally post employment opportunities](https://www.palittoconsulting.com/company-profile/pcs-employment-opportunities/)
 #### Final web page PCS Employment Opportunities
 > These are the short summaries of the college and high school internships with links to the longer descriptions
 
